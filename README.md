@@ -41,7 +41,7 @@ CompSecurity_FinalProject/
 ├── Project.pdf                       # Original project instructions
 ├── README.md
 └── __pycache__/                      # Ignored Python cache files
----
+
 ```
 ---
 
