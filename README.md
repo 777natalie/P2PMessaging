@@ -43,7 +43,9 @@ CompSecurity_FinalProject/
 └── __pycache__/                      # Ignored Python cache files
 ---
 ```
+---
 
+## Setup Instructions
 
 ### Technologies Used
 * **Python 3**
